@@ -1,3 +1,6 @@
 hello world
-dev1
-dev
+<<<<<<< HEAD
+addadd
+=======
+addadd
+>>>>>>> dev1
